@@ -1,9 +1,9 @@
 # Jenkins Docker image — CI/CD
 
-This repository builds and publishes a Jenkins Docker image with some essential
-plugins to work as a quick bootstrap for a lab Jenkins instance.
+This repository implements a simple docker image for Jenkins for testing purposes.
 
-A handy way to practice writing Jenkins pipelines and testing without the initial setup.
+It's a a handy way to practice writing Jenkins pipelines and testing without worrying about
+basic plugin setup.
 
 ## TL;DR
 
