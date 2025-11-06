@@ -1,5 +1,7 @@
 # Jenkins Docker image — CI/CD
 
+[![Build Status](https://github.com/taksan/jenkins-basic-lab/actions/workflows/docker-publish.yml/badge.svg?event=push)](https://github.com/taksan/jenkins-basic-lab/actions/workflows/docker-publish.yml)
+
 This repository implements a simple docker image for Jenkins for testing purposes.
 
 It's a a handy way to practice writing Jenkins pipelines and testing without worrying about
