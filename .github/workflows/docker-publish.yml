@@ -45,7 +45,6 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64,linux/arm64
           push: false
-          load: true
           tags: |
             jenkins:${{ steps.set-tags.outputs.image_tag }}
 
